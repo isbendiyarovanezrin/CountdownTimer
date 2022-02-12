@@ -55,7 +55,7 @@ function startTimer2(e) {
   if (minutes / 1 != minutes) {
     clearInterval(countdown);
     remainingTime.textContent = "Please enter only numbers.";
-    remainingTime.style.fontSize = "7rem";
+    remainingTime.style.fontSize = window.innerWidth < 500 ? "4rem" : "7rem";
     document.title = "Countdown Timer";
     endTime.textContent = "";
     this.reset();
@@ -65,7 +65,7 @@ function startTimer2(e) {
   if (minutes < 0) {
     clearInterval(countdown);
     remainingTime.textContent = "Please enter a positive number.";
-    remainingTime.style.fontSize = "7rem";
+    remainingTime.style.fontSize = window.innerWidth < 500 ? "3.9rem" : "7rem";
     document.title = "Countdown Timer";
     endTime.textContent = "";
     this.reset();
