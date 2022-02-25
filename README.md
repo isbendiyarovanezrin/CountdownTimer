@@ -10,6 +10,6 @@
 |                  !["Countdown timer" project screenshot](https://i.postimg.cc/xTVhr9yY/countdown-timer.png)                  |
 |                                                                                                                              |
 |                                                          License 📝                                                          |
-|                Copyright © 2022 [Nəzrin İsbəndiyarova](https://github.com/isbendiyarovanezrin "Click me!😎").                |
+|              Copyright © 2022 [**Nəzrin İsbəndiyarova**](https://github.com/isbendiyarovanezrin "Click me!😎").              |
 | This project is [**MIT**](https://github.com/isbendiyarovanezrin/CountdownTimer/blob/master/LICENSE "Click me!🧐") licensed. |
 |                                                                                                                              |
