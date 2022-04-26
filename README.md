@@ -1,4 +1,4 @@
-|                                      [Countdown Timer](https://youtu.be/7guNNC2QEKo) 🕔                                      |
+|                               [Countdown Timer](https://youtu.be/7guNNC2QEKo "Click me!⌛") 🕔                               |
 | :--------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                              |
 |           You can view the project [**here**](https://isbendiyarovanezrin.github.io/CountdownTimer "Click me!⌛").           |
